@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0">
+<channel>
+  <title>Power Platform (English)</title>
+  <link>https://github.com/nschreder/holidaycalendarapp</link>
+  <description>This content pack highlights all great features and additional information about Power Platform</description>  <item>
+    <title>What is Power Apps?</title>
+    <link>https://www.youtube.com/watch?v=OwOWDXteakM</link>
+    <pubDate>Thu, 1 Dec 2022 00:00:00 GMT</pubDate>
+    <category>Video</category>
+  </item>  <item>
+    <title>Lets get started and build an app!</title>
+    <link>https://make.powerapps.com/</link>
+    <pubDate>Fri, 2 Dec 2022 00:00:00 GMT</pubDate>
+    <category>Link</category>
+  </item>  <item>
+    <title>Click here for everything around certifications!</title>
+    <link>https://learn.microsoft.com/de-de/certifications/power-platform-fundamentals/</link>
+    <pubDate>Sat, 3 Dec 2022 00:00:00 GMT</pubDate>
+    <category>Link</category>
+  </item>  <item>
+    <title>New career growth opportunities</title>
+    <link>https://powerup.microsoft.com/</link>
+    <pubDate>Sun, 4 Dec 2022 00:00:00 GMT</pubDate>
+    <category>Link</category>
+  </item>  <item>
+    <title>Better together: SAP + PowerPlatform</title>
+    <link>https://powerautomate.microsoft.com/en-us/blog/announcing-deeper-sap-integration-for-the-power-platform/</link>
+    <pubDate>Mon, 5 Dec 2022 00:00:00 GMT</pubDate>
+    <category>Link</category>
+  </item>  <item>
+    <title>Building Apps now got even more easy: AI Builder</title>
+    <link>https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/app-from-image?source=recommendations</link>
+    <pubDate>Tue, 6 Dec 2022 00:00:00 GMT</pubDate>
+    <category>Link</category>
+  </item>  <item>
+    <title>What's next in PowerApps? Future is collaborative</title>
+    <link>https://powerapps.microsoft.com/it-ch/blog/power-apps-brings-collaboration-to-center-stage-with-3-big-announcements</link>
+    <pubDate>Wed, 7 Dec 2022 00:00:00 GMT</pubDate>
+    <category>Link</category>
+  </item>  <item>
+    <title>Can PowerApps write code for you? Learn about PowerFx</title>
+    <link>https://www.youtube.com/watch?v=zbjKdzavPHk</link>
+    <pubDate>Thu, 8 Dec 2022 00:00:00 GMT</pubDate>
+    <category>Video</category>
+  </item>  <item>
+    <title>Can Apps look beautiful? Design your Apps with Figma</title>
+    <link>https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/figma/overview#design-your-app-in-figma</link>
+    <pubDate>Fri, 9 Dec 2022 00:00:00 GMT</pubDate>
+    <category>Link</category>
+  </item>  <item>
+    <title>Build a learning culture using low-code platform</title>
+    <link>https://cloudblogs.microsoft.com/powerplatform/2022/05/24/low-code-trend-report-2022-building-a-learning-culture-on-a-low-code-platform/</link>
+    <pubDate>Sat, 10 Dec 2022 00:00:00 GMT</pubDate>
+    <category>Link</category>
+  </item>  <item>
+    <title>Did you miss the Ignite? Here's a recap</title>
+    <link>https://news.microsoft.com/ignite-2022-book-of-news/</link>
+    <pubDate>Sun, 11 Dec 2022 00:00:00 GMT</pubDate>
+    <category>Link</category>
+  </item>  <item>
+    <title>Making HM successful with the Power Platform</title>
+    <link>https://customers.microsoft.com/en-us/story/1406720141896236093-hm-group-balances-power-platform-development-and-security</link>
+    <pubDate>Mon, 12 Dec 2022 00:00:00 GMT</pubDate>
+    <category>Link</category>
+  </item>  <item>
+    <title>MS Virtual Training Days to build up some MS muscles</title>
+    <link>https://www.microsoft.com/en-us/trainingdays</link>
+    <pubDate>Tue, 13 Dec 2022 00:00:00 GMT</pubDate>
+    <category>Link</category>
+  </item>  <item>
+    <title>Tutorial and effective usage Employee ideas app</title>
+    <link>https://learn.microsoft.com/en-us/power-apps/teams/employee-ideas</link>
+    <pubDate>Wed, 14 Dec 2022 00:00:00 GMT</pubDate>
+    <category>Link</category>
+  </item>  <item>
+    <title> Tutorial and effective usage Get connected app</title>
+    <link>https://learn.microsoft.com/en-us/power-apps/teams/get-connected</link>
+    <pubDate>Thu, 15 Dec 2022 00:00:00 GMT</pubDate>
+    <category>Link</category>
+  </item>  <item>
+    <title>Use our Templates for Cloud Flows in Power Automate!</title>
+    <link>https://powerautomate.microsoft.com/de-de/templates/</link>
+    <pubDate>Fri, 16 Dec 2022 00:00:00 GMT</pubDate>
+    <category>Link</category>
+  </item>  <item>
+    <title>Take a breath, and think about 3 things you are grateful for!</title>
+    <link>https://raw.githubusercontent.com/nschreder/holidaycalendarapp/main/HolidayCalendarService/Power%20Platform%20English/17.jpg</link>
+    <pubDate>Sat, 17 Dec 2022 00:00:00 GMT</pubDate>
+    <category>Image</category>
+  </item>  <item>
+    <title>Run on the Learning Path of MS Power Platform Fundamentals</title>
+    <link>https://learn.microsoft.com/en-us/training/paths/power-plat-fundamentals/</link>
+    <pubDate>Sun, 18 Dec 2022 00:00:00 GMT</pubDate>
+    <category>Link</category>
+  </item>  <item>
+    <title>How to create a canvas appfram a SharePoint List!</title>
+    <link>https://learn.microsoft.com/en-us/power-apps/maker/canvas-apps/app-from-sharepoint</link>
+    <pubDate>Mon, 19 Dec 2022 00:00:00 GMT</pubDate>
+    <category>Link</category>
+  </item>  <item>
+    <title>Check out the summary of training material we have available for you!</title>
+    <link>https://powerplatform.microsoft.com/en-us/instructor-led-training/</link>
+    <pubDate>Tue, 20 Dec 2022 00:00:00 GMT</pubDate>
+    <category>Link</category>
+  </item>  <item>
+    <title>Anyone can be a developer? Yes, check this out --></title>
+    <link>https://www.youtube.com/watch?v=2dscy89ks9I</link>
+    <pubDate>Wed, 21 Dec 2022 00:00:00 GMT</pubDate>
+    <category>Video</category>
+  </item>  <item>
+    <title>Express Design to create beautiful Apps! </title>
+    <link>https://www.youtube.com/watch?v=XH0XmwpqVuQ</link>
+    <pubDate>Thu, 22 Dec 2022 00:00:00 GMT</pubDate>
+    <category>Video</category>
+  </item>  <item>
+    <title>Get inspired by our Power Apps patterns! </title>
+    <link>https://learn.microsoft.com/de-de/power-apps/guidance/patterns/overview</link>
+    <pubDate>Fri, 23 Dec 2022 00:00:00 GMT</pubDate>
+    <category>Link</category>
+  </item>  <item>
+    <title>Check out our Power Platform In a Day workshops! </title>
+    <link>https://events.microsoft.com/en-us/allevents/?search=App%20in%20a%20Day</link>
+    <pubDate>Sat, 24 Dec 2022 00:00:00 GMT</pubDate>
+    <category>Link</category>
+  </item></channel>
+</rss>
